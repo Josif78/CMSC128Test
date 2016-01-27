@@ -7,6 +7,10 @@
     
     <body>
         <p>Purple Heart Best Heart</p>
-        <p>Pudding</p>
+<<<<<<< HEAD
+        <p>Pudding is love</p>
+=======
+        <p>Pudding besuto</p>
+>>>>>>> cca240a4e8d701ec2ee4e0bbca28aa63ac647f68
     </body>
 </html>
